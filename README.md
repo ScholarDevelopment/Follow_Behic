@@ -95,7 +95,8 @@ __My Network:__
 
 __Update Here__
 
-[My Blog](#AddLinkHere)
+- [My Blog](#AddLinkHere)
+- [My Photo](#AddLinkHere)
 
 __Completed Blogposts__
 - [Blogpost 1](#link1)
