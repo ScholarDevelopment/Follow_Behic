@@ -27,12 +27,13 @@ __Update Here__
 I want to focus on industry education.
 
 ### The Fields:
-- Field 1
-- Field 2
-- ...
+- Web App Development 
+- UX/UI Design
+
+> Search on the internet and decide which field to work on
 
 ### The Field you want to work on:
-
+__Add here your field, after deciding__
 
 ## Online Course
 
