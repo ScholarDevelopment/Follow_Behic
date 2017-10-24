@@ -3,12 +3,18 @@
 ## Contents
 
 - [Personal Summary](#personal-summary)
+- [Online Course](#online-course)
+- [Textbooks](#textbooks) 
 - [CV Development](#cv-development)
 - [LinkedIn](#linkedin)
 - [GitHub Usage](#github-usage)
+- [Networking](#networking)
+- [Blogposts](#blogposts)
+- [Personal Development](#personal-development)
 
 
 ## Personal Summary
+__Update Here__
 
 > Add here which career path you want to follow.
 
@@ -18,7 +24,24 @@
 
 > Combine all of them to create you personal summary that will be a concise paragraf that talks about you. (Something like a LinkedIn summary)
 
+
+### The Fields under the CyberSecurity:
+- Field 1
+- Field 2
+- ...
+
+### The Field you want to work on:
+
+
+## Online Course
+
+- [Course Name](Course Link)
+
+## Textbooks
+- List the Textbooks if follow
+
 ## CV Development
+__Update Here__
 
 > Your CV is one of the most important key elements to prepare you for after-school. 
 
@@ -33,6 +56,7 @@
 > If you have CV as a GitHub account, add the link under this section
 
 ## LinkedIn
+__Update Here__
 
 > Add here you LinkedIn account
 
@@ -45,9 +69,40 @@
 > In the Job section you should select your interest so the job offers and ads will come from those interests
 
 ## GitHub Usage
+__Update Here__
 
-> Add here the hierarchy of your GitHub Repositories.
+__Ideas:__
+- X 
+- Y
+
+> Add the hierarcy of your github repositories.
 
 
+## Networking
+__Update Here__
 
->> Will continue adding sections and content
+__My Network:__
+
+- Professor X, Designer
+-
+
+- Goal for next meetup: 
+  - meet with 2 people 
+
+## Blogposts
+
+__Update Here__
+
+[My Blog](#AddLinkHere)
+
+__Completed Blogposts__
+- [Blogpost 1](#link1)
+- [Blogpost 2](#link2)
+
+__Blogpost Ideas__
+- Idea 1
+- Idea 2
+
+## Personal Development
+
+__Update Here__
