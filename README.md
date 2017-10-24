@@ -25,7 +25,7 @@ __Update Here__
 > Combine all of them to create you personal summary that will be a concise paragraf that talks about you. (Something like a LinkedIn summary)
 
 
-### The Fields under the CyberSecurity:
+### The Fields:
 - Field 1
 - Field 2
 - ...
