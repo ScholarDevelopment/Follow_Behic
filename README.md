@@ -61,7 +61,7 @@ __Update Here__
 
 ## LinkedIn
 __Update Here__
-[My LinkedIn Profile]https://www.linkedin.com/in/behic-g-0029264a/
+[My LinkedIn Profile](https://www.linkedin.com/in/behic-g-0029264a/)
 > Add here you LinkedIn account
 
 > Always keep your LinkedIn updated
