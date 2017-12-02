@@ -97,12 +97,12 @@ __My Network:__
 
 __Update Here__
 
-- [My Blog](#https://sonsuzdesign.wordpress.com/)
-- [My Photo](#https://photosonsuz.wordpress.com/)
+- [My Blog](https://sonsuzdesign.wordpress.com/)
+- [My Photo](https://photosonsuz.wordpress.com/)
 
 __Completed Blogposts__
-- [Blogpost 1](#https://sonsuzdesign.wordpress.com/2016/11/14/the-myth-of-the-real-javascript-developer-brenna-obrien/)
-- [Blogpost 2](#https://sonsuzdesign.wordpress.com/2016/12/10/color-guess-game-with-js/)
+- [Blogpost 1](https://sonsuzdesign.wordpress.com/2016/11/14/the-myth-of-the-real-javascript-developer-brenna-obrien/)
+- [Blogpost 2](https://sonsuzdesign.wordpress.com/2016/12/10/color-guess-game-with-js/)
 
 __Blogpost Ideas__
 - How to make the best cafe latte at home
