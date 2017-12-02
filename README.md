@@ -37,7 +37,7 @@ __Add here your field, after deciding__
 
 ## Online Course
 
-- [Course Name](Course Link)
+- [Intro to Descriptive Statistics](https://classroom.udacity.com/courses/ud827)
 
 ## Textbooks
 - List the Textbooks if follow
@@ -61,7 +61,7 @@ __Update Here__
 
 ## LinkedIn
 __Update Here__
-
+[My LinkedIn Profile]https://www.linkedin.com/in/behic-g-0029264a/
 > Add here you LinkedIn account
 
 > Always keep your LinkedIn updated
@@ -97,16 +97,16 @@ __My Network:__
 
 __Update Here__
 
-- [My Blog](#AddLinkHere)
-- [My Photo](#AddLinkHere)
+- [My Blog](#https://sonsuzdesign.wordpress.com/)
+- [My Photo](#https://photosonsuz.wordpress.com/)
 
 __Completed Blogposts__
-- [Blogpost 1](#link1)
-- [Blogpost 2](#link2)
+- [Blogpost 1](#https://sonsuzdesign.wordpress.com/2016/11/14/the-myth-of-the-real-javascript-developer-brenna-obrien/)
+- [Blogpost 2](#https://sonsuzdesign.wordpress.com/2016/12/10/color-guess-game-with-js/)
 
 __Blogpost Ideas__
-- Idea 1
-- Idea 2
+- How to make the best cafe latte at home
+- How to study to finals
 
 ## Personal Development
 
