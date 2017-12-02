@@ -45,6 +45,8 @@ __Add here your field, after deciding__
 ## CV Development
 __Update Here__
 
+[My Resume Repository](https://github.com/Sonsuz/my_resume)
+
 > Your CV is one of the most important key elements to prepare you for after-school. 
 
 > Prepare your CV, Updatable format (docx, latex, template), PDF of current version
